@@ -207,6 +207,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us about the tree.",
     contactLead:  "Send through the details — size, location, any structures nearby — and we will get back to you quickly.",
-    contactPlaceholder: "e.g. large bluegum 15m, close to wall, need felling and stump removed"
+    contactPlaceholder: "e.g. large bluegum 15m, close to wall, need felling and stump removed",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Storm-damaged tree <em>over the house?</em>",
+    ctaBannerSub:   "One call and a team with the right gear is on the way."
   }
 };
